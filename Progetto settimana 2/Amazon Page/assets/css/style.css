@@ -1,0 +1,71 @@
+/* Your styles here */
+
+/*elementi generici*/
+
+html {
+    font-size: 1em;
+}
+
+body {
+    background-color: #e9edee;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*header*/
+
+header {
+    background-color: #222f3f;
+    height: 60px;
+}
+
+header img {
+    width: 120px;
+    height: 40px;
+    margin: 0.5rem 1rem;
+}
+
+/* nav*/
+
+nav {
+    background-color: #364759;
+    height: 20px;
+    padding: 0.3rem;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0.5rem;
+}
+
+/*article*/
+
+/*classi*/
+
+.text-align {
+    text-align: left;
+}
+.topbar {
+    background-color: #f56600;
+}
+.topbar a {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+.dimension {
+    height: auto;
+    width: auto;
+    text-align: center;
+    margin: 2rem;
+    padding: 0.5rem;
+}
