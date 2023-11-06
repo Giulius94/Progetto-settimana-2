@@ -14,6 +14,7 @@ main a {
 color: #21717A;
 font-weight: bold;
 padding: 15px;
+text-decoration: none;
 }
 
 main p {
@@ -139,6 +140,12 @@ article div img {
 
 .margin {
     margin: 2rem;
+}
+
+.find {
+    background-color: white;
+    padding: 1rem;
+    margin: 1.5rem;
 }
 /*footer*/
 
